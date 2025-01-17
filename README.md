@@ -42,3 +42,8 @@ Function 7
 - The script will retrieve all results and store it into the directory of your choice via scp
   
 ![Image](https://github.com/user-attachments/assets/87b2af04-7d9b-4ecd-8f48-a21a3b59cef0)
+
+Results
+- The image below shows that the scans are saved in the directory specified above
+  
+![Image](https://github.com/user-attachments/assets/87b2af04-7d9b-4ecd-8f48-a21a3b59cef0)
