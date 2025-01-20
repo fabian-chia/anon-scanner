@@ -1,6 +1,6 @@
 # anon-scanner
 
-Anonymous scans an IP address or domain of your choice
+Anonymously scans an IP address or domain of your choice
 
 Function 1
 - Checks if the necessary packages are already installed
